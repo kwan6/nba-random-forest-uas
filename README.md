@@ -42,6 +42,7 @@ Tahapan yang diterapkan dalam proyek ini meliputi:
 
 ## Struktur Berkas
 nba-random-forest-uas/
+
 │
 
 ├── modellingUAS.ipynb
